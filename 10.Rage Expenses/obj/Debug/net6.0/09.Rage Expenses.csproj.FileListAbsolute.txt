@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\bin\Debug\net6.0\09.Rage Expenses.exe
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\bin\Debug\net6.0\09.Rage Expenses.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\bin\Debug\net6.0\09.Rage Expenses.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\bin\Debug\net6.0\09.Rage Expenses.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\bin\Debug\net6.0\09.Rage Expenses.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\refint\09.Rage Expenses.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\09.Rage Expenses.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\09.Rage Expenses\obj\Debug\net6.0\ref\09.Rage Expenses.dll
