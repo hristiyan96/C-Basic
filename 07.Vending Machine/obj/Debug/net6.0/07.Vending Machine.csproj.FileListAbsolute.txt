@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\bin\Debug\net6.0\07.Vending Machine.exe
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\bin\Debug\net6.0\07.Vending Machine.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\bin\Debug\net6.0\07.Vending Machine.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\bin\Debug\net6.0\07.Vending Machine.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\bin\Debug\net6.0\07.Vending Machine.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\refint\07.Vending Machine.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\07.Vending Machine.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\07.Vending Machine\obj\Debug\net6.0\ref\07.Vending Machine.dll

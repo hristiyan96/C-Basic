@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\bin\Debug\net6.0\06.Strong Number.exe
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\bin\Debug\net6.0\06.Strong Number.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\bin\Debug\net6.0\06.Strong Number.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\bin\Debug\net6.0\06.Strong Number.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\bin\Debug\net6.0\06.Strong Number.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\refint\06.Strong Number.dll
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.pdb
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\06.Strong Number.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax -Exercise\06.Strong Number\obj\Debug\net6.0\ref\06.Strong Number.dll
